@@ -9,3 +9,4 @@ Tuples represent start and stop times of detected sequences of motion.
 Expected frame of annotated video processing look something like the below image: <br>
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/55325528/213024330-11befeea-feb2-4add-851d-5ada8aba5fda.png">
 <br>
+The annotated boxes are flagging moving things detected in the frame. In this case, the boxes are highlighting parts of a Carolina Wren as it returns to its nest. 
